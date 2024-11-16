@@ -11,5 +11,4 @@ function countWordOccurrences(sen: string, word: string): number {
   return count;
 }
 
-const l = countWordOccurrences("I love typescript", "typescript");
-console.log(l);
+ 

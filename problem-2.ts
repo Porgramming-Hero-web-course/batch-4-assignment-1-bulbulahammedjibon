@@ -6,4 +6,4 @@ function duplicate(arr: number[]): number[] {
   return removeDuplicates;
 }
 
-console.log(duplicate([1, 2, 2, 3, 4, 4, 5]));
+ 

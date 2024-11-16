@@ -16,6 +16,5 @@
     }
   }
 
-  const car = new Car("Honda", "Civic", 2018);
-  car.getCarAge();
+ 
 }
